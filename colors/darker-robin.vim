@@ -84,4 +84,5 @@ hi Ignore			guifg=bg
 hi Error			guifg=White		guibg=Red		gui=none
 
 hi Todo				guifg=#900000	guibg=#909000	gui=none
+hi CursorLine guibg=White
 
