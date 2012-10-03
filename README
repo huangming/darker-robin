@@ -7,3 +7,6 @@ It's looks fine on my TFT in night, evening.
 Hope, you find it useful :)
 
 Best regards
+
+---
+原作C语言注释为紫色，在当前行高亮的时候会看不清。我在后面增加了一个当前行高亮的颜色设置。
